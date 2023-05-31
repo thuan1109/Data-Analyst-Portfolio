@@ -23,6 +23,8 @@ This repository is containing portfolio of data science and data analyst project
    Built a neural network from scratch using NumPy, backpropagation algorithm and activation functions sigmoid for classification problem.
  
 
+- PowerBi Projects
 
+  * [Report of Revenue](https://github.com/thuan1109/Data-Analyst-Portfolio/blob/main/BaoCaoDoanhThu.pdf)
 
 
