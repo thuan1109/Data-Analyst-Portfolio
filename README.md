@@ -20,7 +20,7 @@ This repository is containing portfolio of data science and data analyst project
 
   * [Build a Neural Network & Make Predictions](https://github.com/thuan1109/Data-Analyst-Portfolio/blob/main/NeuralNetwork_scratch.ipynb)[[Open In Colab](https://colab.research.google.com/drive/1GJplz0hTIT7RuIdHESW8atBgiSh8A7gy)]
 
- Built a neural network from scratch using NumPy, backpropagation algorithm and activation functions sigmoid for classification problem.
+   Built a neural network from scratch using NumPy, backpropagation algorithm and activation functions sigmoid for classification problem.
  
 
 
