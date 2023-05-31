@@ -3,6 +3,8 @@ This repository is containing portfolio of data science and data analyst project
 
 ## Contents
 - Data Analysis and Visualization with Python
+
+
   * [Sea Level Preditor](https://github.com/thuan1109/Data-Analyst-Portfolio/blob/main/Sea_Level_Preditor_.ipynb)[[Open In Colab](https://colab.research.google.com/drive/1exkouluuDM2pFAJZ4iV5hwygbwKOBFYK#scrollTo=Pq5BFI5lFtJt)]
 
 
